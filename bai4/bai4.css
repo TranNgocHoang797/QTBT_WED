@@ -1,0 +1,30 @@
+body{
+    font-family:'Franklin Gothic Medium',, Arial, sans-serif;
+    background-color:#ffffff;
+    padding: 25px 15px;
+    margin 0;
+}
+.TD {
+    text-align: center;
+    font-family:'Segoe';
+    background-color: #fcfdfd;
+    color:blue; 
+}
+.anh {
+    width: center;
+    border-radius: 10px;
+    text-align: center;
+}
+.Doan1::first-letter {
+font-size: 2.5em;
+color:#c3160d
+}
+.Doan2::first-letter {
+font-size: 2.5em;
+color:#c3160d
+}
+.gach {
+    background-color: blue;
+    text-align:right;
+    color:#fcfdfd;
+}

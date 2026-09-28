@@ -1,0 +1,54 @@
+body {
+    background-color: #f2f2eb;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.poem-card {
+    background-color: #FFFDE7;
+    border: 1px solid #9E9E9E;
+    width: 450px;
+    margin: 30px auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #D40000;
+    background-color: #FFD9E6;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 20px 0;
+    padding: 10px;
+    font-size: 22px;
+}
+
+.stanza {
+    font-style: italic;
+    text-align: center;
+    line-height: 1.8;
+    margin: 15px 0;
+}
+
+.stanza-blue {
+    color: #0033CC;
+}
+
+.stanza-red {
+    color: #D40000;
+}
+
+.line-blue {
+    width: 55%;
+    margin: 15px auto;
+    border: 0;
+    border-top: 2px solid #0033CC;
+}
+
+.line-red {
+    width: 55%;
+    margin: 15px auto;
+    border: 0;
+    border-top: 2px solid #D40000;
+}
